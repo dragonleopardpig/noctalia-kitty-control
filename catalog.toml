@@ -1,0 +1,12 @@
+[[plugin]]
+id           = "community/kitty-control"
+name         = "Kitty Control"
+version      = "1.0.0"
+author       = "community"
+license      = "MIT"
+icon         = "terminal-2"
+description  = "Control panel for Kitty terminal appearance, transparency, typography, and themes."
+deprecated   = false
+plugin_api   = 45
+tags         = ["terminal", "bar", "panel", "utility"]
+dependencies = ["kitty"]
